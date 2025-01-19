@@ -1,4 +1,4 @@
-Hi!![Hello](img/hello.gif) My name is Hendrix Huang
+Hi! My name is Hendrix Huang 🩵
 =====================================================================================================================================
 
 Web Developer and Designer
