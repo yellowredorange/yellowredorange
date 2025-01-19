@@ -42,6 +42,7 @@ I love researching tools, solving problems, writing small projects, creating edu
 ### [MomPos](https://mompos.yellowredorange.com/#/)
 ![MomPos](https://github.com/user-attachments/assets/0ba52d63-2c4e-459f-a893-5555e582688b)
 **媽媽都說好用的 Pos 系統👍**
+![Screenshot 2025-01-19 181955](https://github.com/user-attachments/assets/7f76930b-0694-4448-8f64-172f15f617b6)
 
 
 MomPos 是一個點餐網站，提供餐飲業者方便又快速的建立編輯菜單，讓顧客登入會員、線上點餐，具備 RWD、權限管理等功能。
