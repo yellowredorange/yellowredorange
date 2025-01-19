@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 I am skilled in C# .NET Core, Java, Python, Vue, JavaScript, TypeScript, GitLab CI/CD, and MS SQL. Recently graduated from National Chung Cheng University, I completed a semester-long internship as a full-stack engineer at Titan Tech. Winning third place in the national InnoServe competition, I led a university project integrating generative AI with a guide application. I have strong self-learning abilities, excel in efficient problem-solving, and possess effective communication skills. Additionally, I am proficient in English, enhancing my ability to work in diverse teams.
-![Hello](img/hello.gif)
+![Hello](https://github.com/yellowredorange/yellowredorange/blob/main/img/hello.gif?raw=true)
 * ✉️  You can contact me at [yellowredorange1999@gmail.com](mailto:yellowredorange1999@gmail.com)
 * 🚀  I'm currently working on [MomPos (Demo)](http://https://mompos.yellowredorange.com/)
 
