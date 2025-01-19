@@ -8,6 +8,7 @@ I am skilled in C# .NET Core, Java, Python, Vue, JavaScript, TypeScript, GitLab 
 ![Hello](https://github.com/yellowredorange/yellowredorange/blob/main/img/hello.gif?raw=true)
 * ✉️  You can contact me at [yellowredorange1999@gmail.com](mailto:yellowredorange1999@gmail.com)
 * 🚀  I'm currently working on [MomPos (Demo)](http://https://mompos.yellowredorange.com/)
+![rainbow-spongebob](https://github.com/user-attachments/assets/b4fcdcda-1faa-4e0f-897b-a7a5fc9d3f20)
 
 ### Skills
 
