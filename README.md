@@ -24,7 +24,7 @@ I am skilled in C# .NET Core, Java, Python, Vue, JavaScript, TypeScript, GitLab 
 ### Badges
 
 <b>My GitHub Stats</b>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yellowredorange)](https://git.io/streak-stats)
 <a href="http://www.github.com/yellowredorange"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowredorange&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/yellowredorange"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yellowredorange&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
